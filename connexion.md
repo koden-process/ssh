@@ -1,0 +1,1 @@
+Pour se connecter à une autre machine, il faut placer sur la machine distante dans le dossier utilisateur ciblé puis dans le dossier .ssh puis dans le fichier authorized_keys la clé publique de la machine sur laquelle on se trouve
